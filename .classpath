@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.rational.test.ft.libraries.FT_LIBRARIES"/>
+	<classpathentry kind="con" path="com.rational.test.ft.libraries.FT_TESTOBJECT"/>
+	<classpathentry kind="con" path="com.rational.test.ft.libraries.FT_CUSTOMIZATION"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/rational_ft.jar"/>
+	<classpathentry kind="lib" path="libs/reflections-0.9.9-RC1-uberjar.jar"/>
+	<classpathentry kind="lib" path="libs/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="libs/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="libs/stringtemplate-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.ajdt.core.ASPECTJRT_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
